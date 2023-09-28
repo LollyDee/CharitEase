@@ -1,0 +1,39 @@
+.overlay-1,
+.overlay-1 * {
+  box-sizing: border-box;
+}
+.overlay-1 {
+  background: var(--primarycolor-20, #abbfd1);
+  width: 836px;
+  height: 571px;
+  position: relative;
+  overflow: hidden;
+}
+.your-campaign-is-being-reviewed-you-ll-hear-from-us-soon {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: center;
+  font: var(--header-h-3-semi-bold, 500 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 95px;
+  top: 238px;
+}
+.vector {
+  position: absolute;
+  left: 757.29px;
+  top: 15.75px;
+  overflow: visible;
+}
+.mingcute-loading-fill {
+  width: 94px;
+  height: 94px;
+  position: absolute;
+  left: calc(50% - 80px);
+  top: 90px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 27px;
+  top: 0px;
+  overflow: visible;
+}

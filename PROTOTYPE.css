@@ -1,0 +1,973 @@
+.prototype-board,
+.prototype-board * {
+  box-sizing: border-box;
+}
+.prototype-board {
+  background: #ffffff;
+  width: 4231px;
+  height: 2318px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-242 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 0.009999999747378752%,
+    rgba(255, 255, 255, 1) 60.41666865348816%
+  );
+  width: 652px;
+  height: 57px;
+  position: absolute;
+  left: 321px;
+  top: 551px;
+  overflow: hidden;
+}
+.component-2 {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 1px;
+  width: 1401px;
+  height: 433px;
+  position: absolute;
+  left: 8px;
+  top: 0px;
+  overflow: hidden;
+}
+.property-1-frame-243 {
+  width: 652px;
+  height: 170px;
+  position: relative;
+  overflow: hidden;
+}
+.dear-friends-and-caring-community-i-hope-this-message-finds-you-well-today-i-find-myself-reaching-out-to-you-with-a-heavy-heart-and-an-urgent-plea-for-help-my-sister-zack-is-facing-a-life-threatening-medical-crisis-and-we-are-in-a-race-against-time-to-save-her-zack-is-a-remarkable-person-known-for-her-boundless-compassion-and-unyielding-spirit-she-has-touched-countless-lives-with-her-kindness-and-now-she-needs-our-support-a-devastating-diagnosis-has-left-us-with-no-choice-but-to-seek-a-life-saving-surgery-the-cost-of-this-procedure-is-overwhelming-far-beyond-what-our-family-can-bear-alone-that-s-why-we-are-turning-to-our-community-to-you-for-help-your-generous-contributions-can-make-a-world-of-difference-for-zack-every-dollar-you-donate-brings-us-closer-to-ensuring-she-gets-the-treatment-she-desperately-needs-please-consider-making-a-donation-today {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 2px;
+  width: 652px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-2422 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 0.009999999747378752%,
+    rgba(255, 255, 255, 1) 60.41666865348816%
+  );
+  width: 652px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  top: 113px;
+  overflow: hidden;
+}
+.frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 33px;
+}
+.read-more {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  text-decoration: underline;
+  position: relative;
+  align-self: stretch;
+}
+.property-1-frame-244 {
+  width: 652px;
+  height: 262px;
+  position: relative;
+}
+.dear-friends-and-caring-community-i-hope-this-message-finds-you-well-today-i-find-myself-reaching-out-to-you-with-a-heavy-heart-and-an-urgent-plea-for-help-my-sister-zack-is-facing-a-life-threatening-medical-crisis-and-we-are-in-a-race-against-time-to-save-her-zack-is-a-remarkable-person-known-for-her-boundless-compassion-and-unyielding-spirit-she-has-touched-countless-lives-with-her-kindness-and-now-she-needs-our-support-a-devastating-diagnosis-has-left-us-with-no-choice-but-to-seek-a-life-saving-surgery-we-appeal-to-the-community-at-large-for-donations-and-every-penny-will-go-along-way-towards-saving-zack-thank-you-all-so-much {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 48px;
+  width: 652px;
+  height: 190px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-1232 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 238px;
+}
+.read-less {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  text-decoration: underline;
+  position: relative;
+  align-self: stretch;
+}
+.component-3 {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 1px;
+  width: 885px;
+  height: 1096px;
+  position: absolute;
+  left: 50px;
+  top: 461px;
+  overflow: hidden;
+}
+.property-1-frame-296 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-293 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 248px;
+  position: relative;
+  overflow: hidden;
+}
+.list-of-donors {
+  color: #000000;
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-258 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.ellipse-34 {
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+.frame-1233 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 172px;
+  height: 40px;
+  position: relative;
+}
+.jennifer-winfred {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.ngn-60000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-279 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.adeniyi-ololade {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-280 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.hassan-yusuf {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-281 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.anita-kanu {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.ngn-50000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-282 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.princess-sarah {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-283 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.annie-houston {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-284 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.charlie-cook {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-285 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-286 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-287 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-288 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-289 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-290 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-291 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-292 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-409 {
+  background: var(--white-10, #ffffff);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button {
+  color: var(--neutral-50, #050505);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.vuesax-linear-arrow-down {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-arrow-down2 {
+  position: absolute;
+  inset: 0;
+}
+.arrow-down {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.property-1-frame-297 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-2932 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 302px;
+  position: relative;
+  overflow: hidden;
+}
+.ngn-120000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.sarah-james {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.samuel-nana {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.vuesax-linear-arrow-up {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-arrow-up2 {
+  position: absolute;
+  inset: 0;
+}
+.arrow-up {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.property-1-frame-298 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-295 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 1008px;
+  position: relative;
+  overflow: hidden;
+}
+.ngn-25000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.hannah-baker {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.phil-jackson {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.ethan-daniel {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.peter-davidson {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.remy-collins {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.noah-jones {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-23 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 112px;
+  height: 48px;
+  position: relative;
+}
+.button2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.vuesax-linear-arrow-up3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 10px;
+  top: 891px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, -1);
+}
+.arrow-up2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.component-4 {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 1px;
+  width: 1272px;
+  height: 1012px;
+  position: absolute;
+  left: 1113px;
+  top: 773px;
+  overflow: hidden;
+}
+.property-1-frame-308 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-307 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 272px;
+  position: relative;
+  overflow: hidden;
+}
+.comments {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-298 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-297 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-296 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+. {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: 500 7px/9.33px "DM Sans", sans-serif;
+  position: relative;
+  width: 7px;
+}
+._1-hr {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.love-the-energy-letts-keeping-thr-donations-coming {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-299 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1-d {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.prayers-up-for-zack-and-thee-family {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-300 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.you-re-in-my-prayers {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-301 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._2-d {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.all-love-from-here-be-strong-zack {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-302 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.i-love-this-platform-and-how-easy-it-is-to-support-those-in-need {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-303 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.janet-lawrence {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+._3-d {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.i-wish-you-speedy-recovery {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-304 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1-wk {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.hang-in-there-zack {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-305 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._2-wk {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.your-strength-is-an-inspiration-to-us-all {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-306 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.godwin-progress {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.its-all-love-lets-make-it-happen-guys {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.arrow-down2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.property-1-frame-309 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-538 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-3072 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 328px;
+  position: relative;
+  overflow: hidden;
+}
+.all-love-from-here-lets-keep-donating {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.arrow-up3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.component-5 {
+  border-radius: 5px;
+  border-style: dashed;
+  border-color: #9747ff;
+  border-width: 1px;
+  width: 1430px;
+  height: 382px;
+  position: absolute;
+  left: 2562px;
+  top: 311px;
+  overflow: hidden;
+}
+.property-1-frame-331 {
+  width: 652px;
+  height: 172px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-330 {
+  width: 652px;
+  height: 504px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.dear-compassionate-supporters-the-wounds-of-the-end-sars-protests-in-nigeria-run-deep-lives-have-been-forever-altered-and-families-shattered-we-at-serap-are-determined-to-help-heal-these-wounds-and-we-need-your-assistance-the-urgent-need-the-victims-of-the-end-sars-protests-many-of-whom-suffered-injuries-loss-of-livelihoods-or-worse-are-in-desperate-need-of-relief-aid-as-a-nation-we-must-come-together-to-provide-immediate-assistance-how-your-support-helps-food-and-medical-supplies-your-donation-will-provide-essential-relief-in-the-form-of-food-medical-supplies-and-hygiene-kits-to-those-affected-shelter-and-rehabilitation-we-will-use-your-contributions-to-help-victims-rebuild-their-lives-providing-shelter-and-support-for-those-who-have-lost-their-homes-and-livelihoods-trauma-counseling-many-survivors-are-grappling-with-trauma-your-support-will-enable-us-to-provide-psychological-counseling-and-support-services-join-us-in-this-mission-together-we-can-make-a-significant-impact-let-us-stand-in-solidarity-with-the-victims-of-the-end-sars-protests-and-help-them-rebuild-their-lives-give-hope-donate-now-to-provide-relief-aid-and-give-hope-to-those-who-have-suffered-every-donation-matters-we-pledge-to-ensure-that-your-donations-are-used-effectively-to-provide-direct-relief-to-those-in-need-thank-you-for-your-compassion {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 652px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-2423 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 0.009999999747378752%,
+    rgba(255, 255, 255, 1) 60.41666865348816%
+  );
+  width: 652px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  bottom: 334px;
+  overflow: hidden;
+}
+.property-1-frame-332 {
+  width: 652px;
+  height: 310px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-3302 {
+  width: 652px;
+  height: 264px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.dear-compassionate-supporters-the-wounds-of-the-end-sars-protests-in-nigeria-run-deep-lives-have-been-forever-altered-and-families-shattered-we-at-serap-are-determined-to-help-heal-these-wounds-and-we-need-your-assistance-the-urgent-need-the-victims-of-the-end-sars-protests-many-of-whom-suffered-injuries-loss-of-livelihoods-or-worse-are-in-desperate-need-of-relief-aid-as-a-nation-we-must-come-together-to-provide-immediate-assistance-donate-now-to-provide-relief-aid-and-give-hope-to-those-who-have-suffered-every-donation-matters-we-pledge-to-ensure-that-your-donations-are-used-effectively-to-provide-direct-relief-to-those-in-need-thank-you-for-your-compassion {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 652px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-2424 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 0.009999999747378752%,
+    rgba(255, 255, 255, 1) 60.41666865348816%
+  );
+  width: 652px;
+  height: 48px;
+  position: absolute;
+  left: 0px;
+  bottom: -2px;
+  overflow: hidden;
+}
+.frame-1234 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 24px;
+}

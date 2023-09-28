@@ -1,0 +1,1116 @@
+.medical-category-page,
+.medical-category-page * {
+  box-sizing: border-box;
+}
+.medical-category-page {
+  background: #f6f4f4;
+  width: 1440px;
+  height: 2856px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-455 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 124px;
+  top: 338px;
+}
+.get-help-with-medical-fundraising {
+  color: var(--primarycolor-90, #01203a);
+  text-align: left;
+  font: var(--header-h-3-bold, 700 40px/48px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.with-charit-ease-you-can-get-immediate-help-with-medical-bills {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+}
+.image-37 {
+  border-radius: 10px;
+  width: 705px;
+  height: 578px;
+  position: absolute;
+  left: 615px;
+  top: 136px;
+}
+.group-371 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-54 {
+  background: #eae8e8;
+  width: 1440px;
+  height: 328px;
+  position: absolute;
+  left: 0px;
+  top: 730px;
+}
+.whatever-your-need-you-can-get-help-support-on-charit-ease {
+  color: #000000;
+  text-align: center;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: calc(50% - 457px);
+  top: 790px;
+}
+.frame-521 {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 117px;
+  top: 1607px;
+}
+.frame-515 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-513 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-46 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 231px;
+  position: relative;
+}
+.chidinma-needs-a-wheelchair {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.chidinma-despite-being-disabled-is-able-to-carry-out-few-activities-but-she-needs-a-wheelchair-to-be-able-to-move-without-pain-and-stress {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 372px;
+}
+.group-375 {
+  flex-shrink: 0;
+  width: 314px;
+  height: 25px;
+  position: static;
+}
+.ngn-60-000-raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 413px;
+}
+._10-donors {
+  color: var(--primarycolor-70, #023561);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 238px;
+  top: 412px;
+}
+.frame-458 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 349px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-517 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-516 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-43 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 231px;
+  position: relative;
+}
+.saving-lives-with-rare-blood-group-donation {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.individuals-with-rare-blood-group-are-often-faced-with-challenges-in-finding-compatible-blood-for-transfusions-and-financial-constraints-to-buy-blood {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 372px;
+}
+.group-376 {
+  flex-shrink: 0;
+  width: 343px;
+  height: 26px;
+  position: static;
+}
+.ngn-600-000-raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 411px;
+}
+._20-blood-donors {
+  color: var(--primarycolor-70, #023561);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 216px;
+  top: 409px;
+}
+.frame-459 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 349px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-519 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-518 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-44 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 231px;
+  position: relative;
+}
+.journey-to-parenthood {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.help-financially-constrained-couples-start-their-families-through-ivf-and-make-a-meaningful-impact-on-their-journey-to-parenthood {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 352px;
+}
+.group-377 {
+  flex-shrink: 0;
+  width: 343px;
+  height: 24px;
+  position: static;
+}
+.group-378 {
+  width: 343px;
+  height: 24px;
+  position: static;
+}
+.ngn-1-100-000-raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 412px;
+}
+._200-donors {
+  color: var(--primarycolor-70, #023561);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 253px;
+  top: 412px;
+}
+.frame-460 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 349px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-514 {
+  width: 1440px;
+  height: 349px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2181px;
+}
+.group-370 {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-53 {
+  background: #f0f0f0;
+  width: 1440px;
+  height: 349px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.we-re-the-most-outstanding-in-medical-fundraising {
+  color: #000000;
+  text-align: left;
+  font: var(--header-h-4-bold, 700 32px/40px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: calc(50% - 384px);
+  top: 81px;
+  width: 768px;
+  height: 40.82px;
+}
+.group-382 {
+  width: 703px;
+  height: 130.62px;
+  position: static;
+}
+.line-22 {
+  border-style: solid;
+  border-color: var(--neutral-60, #060606);
+  border-width: 1px 0 0 0;
+  width: 130.62px;
+  height: 0px;
+  position: absolute;
+  left: 784px;
+  top: 276.62px;
+  transform-origin: 0 0;
+  transform: rotate(-90deg) scale(1, 1);
+}
+.vector {
+  position: absolute;
+  left: 591px;
+  top: 181.09px;
+  overflow: visible;
+}
+.group-379 {
+  width: 221px;
+  height: 82.66px;
+  position: static;
+}
+.group-380 {
+  width: 221px;
+  height: 82.66px;
+  position: static;
+}
+.vector2 {
+  position: absolute;
+  left: 1012px;
+  top: 181px;
+  overflow: visible;
+}
+.frame-520 {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 74px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 118px;
+  top: 1079px;
+}
+.frame-510 {
+  display: flex;
+  flex-direction: column;
+  gap: 35px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-427 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-450 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.alexander-grey-t-knqkv-fcmy-m-unsplash-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 231px;
+  position: relative;
+}
+.zack-lifesaving-surgery {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.zack-needs-help-in-the-battle-for-cancer-that-will-soon-take-his-life {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.group-372 {
+  flex-shrink: 0;
+  width: 349px;
+  height: 24px;
+  position: static;
+}
+.ngn-20-000-raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 376px;
+}
+._170-donors {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 265px;
+  top: 376px;
+}
+.frame-21 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 349px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-511 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-429 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-449 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-32 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 231px;
+  position: relative;
+}
+.mary-life-saving-surgery {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.mary-is-fighting-for-her-life-and-needs-help-urgently-to-avoid-the-spread-of-cancer-to-other-parts-of-her-body {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.group-373 {
+  flex-shrink: 0;
+  width: 348px;
+  height: 24px;
+  position: static;
+}
+.ngn-400-000-raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 384px;
+}
+._70-donors {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 270px;
+  top: 384px;
+}
+.frame-456 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 349px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.frame-512 {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-428 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-451 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-39 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 231px;
+  position: relative;
+}
+.david-s-life-saving-kidney-transplant {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.four-year-old-david-is-facing-a-race-against-time-to-get-donations-for-a-life-saving-kidney-transplant {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.group-374 {
+  flex-shrink: 0;
+  width: 348px;
+  height: 24px;
+  position: static;
+}
+.ngn-1-200-000-raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 384px;
+}
+._100-donors {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 261px;
+  top: 384px;
+}
+.frame-457 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 349px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.secondary-color {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: #ef3e23;
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 56px;
+  position: absolute;
+  left: 124px;
+  top: 536px;
+}
+.button2 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: 700 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.diseases-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 395px;
+  top: 957px;
+}
+.frame-461 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.button3 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-463 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.frame-464 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.diseases-1 {
+  display: flex;
+  flex-direction: row;
+  gap: 100px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 395px;
+  top: 864px;
+}
+.frame-23 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.frame-465 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.frame-462 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 187px;
+  height: 48px;
+  position: relative;
+}
+.frame-128 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2550px;
+  overflow: hidden;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 122px;
+  top: 18px;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 33.5px;
+  height: 30px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-bold, 700 14px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-118 {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 29px;
+}
+.quick-links {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.resources {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.help {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.contact-us {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-329 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1178px;
+  top: 85px;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-509 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 929px;
+  top: 81px;
+}
+.frame-134 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 24px;
+  position: relative;
+}
+.payment-queries {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fa-qs {
+  flex-shrink: 0;
+  width: 40px;
+  height: 24px;
+  position: relative;
+}
+.fa-qs2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-508 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 628px;
+  top: 81px;
+}
+.blog-updates {
+  flex-shrink: 0;
+  width: 102px;
+  height: 24px;
+  position: relative;
+}
+.blog-updates2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-tips {
+  flex-shrink: 0;
+  width: 65px;
+  height: 24px;
+  position: relative;
+}
+.pricing {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.transparency-report {
+  flex-shrink: 0;
+  width: 160px;
+  height: 24px;
+  position: relative;
+}
+.transparency-report2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-507 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 81px;
+}
+.campaign-categories {
+  flex-shrink: 0;
+  width: 167px;
+  height: 24px;
+  position: relative;
+}
+.campaign-categories2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.donations {
+  flex-shrink: 0;
+  width: 79px;
+  height: 24px;
+  position: relative;
+}
+.donations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fundraisers {
+  flex-shrink: 0;
+  width: 92px;
+  height: 24px;
+  position: relative;
+}
+.fundraisers2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charity-organisations {
+  flex-shrink: 0;
+  width: 169px;
+  height: 24px;
+  position: relative;
+}
+.charity-organisations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-12 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+header nav {
+  border: 3px solid red;
+  display: inline-block;
+}
+nav a {
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}
+nav  {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}

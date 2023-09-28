@@ -1,0 +1,454 @@
+.transparency-report-page-1,
+.transparency-report-page-1 * {
+  box-sizing: border-box;
+}
+.transparency-report-page-1 {
+  background: var(--white-10, #ffffff);
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-350 {
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 0.5px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1200px;
+  position: absolute;
+  left: 120px;
+  top: 188px;
+  overflow: hidden;
+}
+.column {
+  border-style: solid;
+  border-color: var(--neutral-70, #2f2f2f);
+  border-width: 0px 1px 0px 0px;
+  padding: 0px 1px 0px 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.header-cell {
+  background: var(--primarycolor-60-main, #024074);
+  border-style: solid;
+  border-color: var(--neutral-70, #2f2f2f);
+  border-width: 0px 0px 1px 0px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 40px;
+  max-height: 40px;
+  position: relative;
+}
+.frame-351 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.the-campaign {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: var(--header-h-5-bold, 700 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.item-cell {
+  background: var(--white-10, #ffffff);
+  border-style: solid;
+  border-color: var(--neutral-70, #2f2f2f);
+  border-width: 0px 0px 1px 0px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 56px;
+  max-height: 56px;
+  position: relative;
+}
+.zacks-life-saving-surgery {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.item-cell2 {
+  background: var(--white-20, #d5d5d5);
+  border-style: solid;
+  border-color: var(--neutral-70, #2f2f2f);
+  border-width: 0px 0px 1px 0px;
+  padding: 8px 24px 8px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 56px;
+  max-height: 56px;
+  position: relative;
+}
+.relief-aid-for-endsars-victims {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.relief-for-brown-mansion {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.clean-water-for-the-village-of-oha {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.mr-johns-kidney-surgery {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.nathans-law-school-fees {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.help-raise-peters-bail-money {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.relief-for-boko-haram-victims {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.project-1000-mosquito-nets-for-displaced-people {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.help-hannah-raise-her-fees {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.help-andy-raise-money-for-mothers-funeral {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 250px;
+}
+.medicne-for-the-refugee-shelter {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.relief-for-flood-vitims {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.the-cause {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: var(--header-h-5-bold, 700 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.medical {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.non-profit-and-charities {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.charity {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.humanitarian-charity {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.education {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.humanitarian {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.fundraising-goal {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: var(--header-h-5-bold, 700 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-6000000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-200000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-90000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-500000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-250000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-300000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-1000000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-600000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.amount-raised {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: var(--header-h-5-bold, 700 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-100000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-150000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-20000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-240000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.ngn-400000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+}
+.frame-395 {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 693px;
+  top: 968px;
+}
+.frame-390 {
+  background: var(--white-50, #555555);
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 40px;
+  min-height: 40px;
+  position: relative;
+}
+._1 {
+  color: var(--white-60, #333333);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.frame-391 {
+  background: var(--white-20, #d5d5d5);
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 40px;
+  min-height: 40px;
+  position: relative;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  height: 76px;
+  position: absolute;
+  left: 120px;
+  top: 32px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}

@@ -1,0 +1,306 @@
+.contact-us,
+.contact-us * {
+  box-sizing: border-box;
+}
+.contact-us {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}
+.charit-ease-contact-centre {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 188px;
+}
+.need-technical-support {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 14px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 84px);
+  top: 306px;
+}
+.save-time-by-starting-your-support-request-online-and-we-ll-connect-you-with-one-our-amazing-customer-support-representatives {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-regular, 400 14px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: calc(50% - 416px);
+  top: 367px;
+}
+.frame-548 {
+  padding: 5px;
+  width: 465px;
+  height: 215px;
+  position: absolute;
+  left: calc(50% - 233px);
+  top: 448px;
+}
+.frame-550 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 492px;
+  top: 453px;
+}
+.frame-547 {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.document-normal {
+  flex-shrink: 0;
+  width: 128px;
+  height: 128px;
+  position: relative;
+}
+.document-normal2 {
+  position: absolute;
+  inset: 0;
+}
+.document-normal3 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.online-form {
+  color: var(--neutral-50, #050505);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+  width: 222px;
+}
+.frame-260 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 201px;
+  height: 48px;
+  position: relative;
+}
+.button {
+  color: var(--white-20-stroke, #d5d5d5);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.vuesax-linear-send-2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-send-22 {
+  position: absolute;
+  inset: 0;
+}
+.send-2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-549 {
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 771px;
+  top: 453px;
+}
+.frame-546 {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.mail-02 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.email {
+  color: var(--neutral-60, #060606);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-21 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 218px;
+  height: 48px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button2 {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-551 {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 120px;
+  top: 823px;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.copyright {
+  position: absolute;
+  inset: 0;
+}
+.group-35 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.group-36 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.group-47 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.group-63 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.rectangle-10 {
+  background: var(--primarycolor-60-main, #024074);
+  width: 1440px;
+  height: 64px;
+  position: absolute;
+  left: 0px;
+  top: 960px;
+}
+.copyright-all-rights-reserved-to-charit-ease {
+  color: var(--white-20-stroke, #d5d5d5);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: calc(50% - 137px);
+  top: 984px;
+  width: 274.48px;
+}
+.charit-ease2 {
+  color: var(--white-10-stroke, #ffffff);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 178px;
+  top: 980px;
+  width: 89px;
+}
+.logo2 {
+  position: absolute;
+  left: 127.32px;
+  top: 970px;
+  overflow: visible;
+}

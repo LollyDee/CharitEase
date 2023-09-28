@@ -1,0 +1,404 @@
+.overlay-share,
+.overlay-share * {
+  box-sizing: border-box;
+}
+.overlay-share {
+  background: var(--white-10-stroke, #ffffff);
+  border-radius: 8px;
+  width: 688px;
+  height: 600px;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.29);
+  overflow: hidden;
+}
+.frame-506 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 640px;
+  height: 440px;
+  position: absolute;
+  left: 24px;
+  top: 80px;
+}
+.frame-501 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-477 {
+  display: flex;
+  flex-direction: row;
+  gap: 360px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 631px;
+  position: relative;
+}
+.help-by-sharing {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.vector-4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.fundraisers-shared-on-social-networks-raise-up-to-5-x-more {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 442px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-505 {
+  display: flex;
+  flex-direction: row;
+  gap: 59px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-502 {
+  flex-shrink: 0;
+  width: 81px;
+  height: 80px;
+  position: relative;
+}
+.la-facebook {
+  position: absolute;
+  left: 9px;
+  top: 0px;
+  overflow: visible;
+}
+.facebook {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 4px;
+  top: 56px;
+  width: 81px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-503 {
+  flex-shrink: 0;
+  width: 81px;
+  height: 72px;
+  position: relative;
+}
+.bi-instagram {
+  position: absolute;
+  left: 20px;
+  top: 0px;
+  overflow: visible;
+}
+.instagram {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 4px;
+  top: 48px;
+  width: 81px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-504 {
+  flex-shrink: 0;
+  width: 60px;
+  height: 72px;
+  position: relative;
+}
+.uil-twitter-alt {
+  position: absolute;
+  left: 7px;
+  top: 0px;
+  overflow: visible;
+}
+.twitter {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 4px;
+  top: 48px;
+  width: 60px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-492 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.mail-02 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.email {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 42px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-491 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ic-sharp-whatsapp {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.whatsapp {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 80px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-498 {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-494 {
+  flex-shrink: 0;
+  width: 98px;
+  height: 72px;
+  position: relative;
+}
+.print-poster {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 8px;
+  top: 52px;
+  width: 98px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.printer {
+  position: absolute;
+  left: 30px;
+  top: 4px;
+  overflow: visible;
+}
+.frame-495 {
+  flex-shrink: 0;
+  width: 115px;
+  height: 72px;
+  position: relative;
+}
+.ph-code-bold {
+  position: absolute;
+  left: 34px;
+  top: 4px;
+  overflow: visible;
+}
+.embed-html {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 8px;
+  top: 52px;
+  width: 115px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-496 {
+  flex-shrink: 0;
+  width: 88px;
+  height: 72px;
+  position: relative;
+}
+.scan-code {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 8px;
+  top: 52px;
+  width: 88px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.vuesax-linear-scan-barcode {
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 27px;
+  top: 4px;
+}
+.vuesax-linear-scan-barcode2 {
+  position: absolute;
+  inset: 0;
+}
+.scan-barcode {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-500 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-499 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.input-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 458px;
+  height: 71px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.input-field2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-25 {
+  background: var(--white-10, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-30 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.https-charitease-d-5169712 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 23px;
+  top: 32px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.primary-color {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.button {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}

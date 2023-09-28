@@ -1,0 +1,1629 @@
+.campaign-page,
+.campaign-page * {
+  box-sizing: border-box;
+}
+.campaign-page {
+  background: var(--white-10, #ffffff);
+  width: 1440px;
+  height: 2858px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-153 {
+  padding: 16px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 932px;
+  top: 192px;
+}
+.frame-34 {
+  background: var(--white-10, #ffffff);
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 388px;
+  height: 352px;
+  position: relative;
+  box-shadow: 0px 4px 4px 2px rgba(0, 0, 0, 0.29);
+  overflow: hidden;
+}
+.frame-239 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 20px;
+  top: 24px;
+}
+.frame-237 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ngn-300000-out-of-ngn-6000000 {
+  text-align: left;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.ngn-300000-out-of-ngn-6000000-span {
+  color: var(--primarycolor-60-main, #024074);
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+}
+.ngn-300000-out-of-ngn-6000000-span2 {
+  color: var(--white-50, #555555);
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+}
+.ngn-300000-out-of-ngn-6000000-span3 {
+  color: var(--white-50, #555555);
+  font: 700 12px/16px "DM Sans", sans-serif;
+  text-transform: lowercase;
+}
+.ngn-300000-out-of-ngn-6000000-span4 {
+  color: var(--white-50, #555555);
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+}
+.ngn-300000-out-of-ngn-6000000-span5 {
+  color: #000000;
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+}
+.frame-35 {
+  background: var(--primarycolor-10, #ccd9e3);
+  border-radius: 16px;
+  flex-shrink: 0;
+  width: 348px;
+  height: 8px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-36 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  width: 77px;
+  height: 8px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+._1-5-k-donations {
+  text-align: left;
+  font: var(--undefined, 700 12px/16px "DM Sans", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._1-5-k-donations-span {
+  color: var(--white-40, #808080);
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+}
+._1-5-k-donations-span2 {
+  color: var(--white-50, #555555);
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+}
+._1-5-k-donations-span3 {
+  color: var(--white-50, #555555);
+  font: 700 12px/16px "DM Sans", sans-serif;
+  text-transform: lowercase;
+}
+.frame-238 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.start-date {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.due-date {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-236 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.primary-color {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 348px;
+  height: 56px;
+  position: relative;
+}
+.button {
+  color: #ffffff;
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.primary-color2 {
+  background: var(--white-10, #ffffff);
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 348px;
+  height: 56px;
+  position: relative;
+}
+.button2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.relief-aid-for-end-sars-victims {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 40px/48px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 136px;
+  width: 616px;
+  height: 64px;
+}
+.line-1 {
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 1px 0 0 0;
+  width: 692px;
+  height: 0px;
+  position: absolute;
+  left: 120px;
+  top: 744.25px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.g-7-ktkp-turb-xy-8-y-ow-vj-ng-fl-y-2-ez-nzc-0-ng-qz-md-uw-n-2-rh-mzk-5-mj-nm-m-tdi-my-5-wbme-sl-qm-az-ohnd-6-dnc-mq-t-bc-0-d-fs-0-brg-1 {
+  border-radius: 8px;
+  width: 692px;
+  height: 456px;
+  position: absolute;
+  left: 120px;
+  top: 208px;
+}
+.frame-411 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 120px;
+  top: 680px;
+}
+.frame-240 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.ellipse-34 {
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+.frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.socio-economic-rights-and-accountability-project-serap-is-organising-this-fundraiser {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 665px;
+}
+.line-3 {
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 692px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-460 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 120px;
+  top: 792px;
+}
+.frame-459 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-458 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-457 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-456 {
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.component-5 {
+  flex-shrink: 0;
+  width: 652px;
+  height: 168px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-330 {
+  width: 652px;
+  height: 504px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.dear-compassionate-supporters-the-wounds-of-the-end-sars-protests-in-nigeria-run-deep-lives-have-been-forever-altered-and-families-shattered-we-at-serap-are-determined-to-help-heal-these-wounds-and-we-need-your-assistance-the-urgent-need-the-victims-of-the-end-sars-protests-many-of-whom-suffered-injuries-loss-of-livelihoods-or-worse-are-in-desperate-need-of-relief-aid-as-a-nation-we-must-come-together-to-provide-immediate-assistance-how-your-support-helps-food-and-medical-supplies-your-donation-will-provide-essential-relief-in-the-form-of-food-medical-supplies-and-hygiene-kits-to-those-affected-shelter-and-rehabilitation-we-will-use-your-contributions-to-help-victims-rebuild-their-lives-providing-shelter-and-support-for-those-who-have-lost-their-homes-and-livelihoods-trauma-counseling-many-survivors-are-grappling-with-trauma-your-support-will-enable-us-to-provide-psychological-counseling-and-support-services-join-us-in-this-mission-together-we-can-make-a-significant-impact-let-us-stand-in-solidarity-with-the-victims-of-the-end-sars-protests-and-help-them-rebuild-their-lives-give-hope-donate-now-to-provide-relief-aid-and-give-hope-to-those-who-have-suffered-every-donation-matters-we-pledge-to-ensure-that-your-donations-are-used-effectively-to-provide-direct-relief-to-those-in-need-thank-you-for-your-compassion {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 652px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-242 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 0.009999999747378752%,
+    rgba(255, 255, 255, 1) 60.41666865348816%
+  );
+  width: 652px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  bottom: 334px;
+  overflow: hidden;
+}
+.frame-1232 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 0px;
+  top: 33px;
+}
+.read-more {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  text-decoration: underline;
+  position: relative;
+  align-self: stretch;
+}
+.frame-251 {
+  display: flex;
+  flex-direction: row;
+  gap: 56px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 692px;
+  position: relative;
+}
+.primary-color3 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 316px;
+  height: 56px;
+  position: relative;
+}
+.primary-color4 {
+  background: var(--white-10, #ffffff);
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 316px;
+  height: 56px;
+  position: relative;
+}
+.frame-454 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.line-2 {
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 692px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-453 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.organiser {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-452 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-434 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-1233 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 458px;
+  height: 40px;
+  position: relative;
+}
+.socio-economic-rights-and-accountability-project-serap {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.organiser2 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-21 {
+  background: var(--white-10, #ffffff);
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 112px;
+  height: 48px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.contact {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.line-4 {
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 692px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.component-3 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-293 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 248px;
+  position: relative;
+  overflow: hidden;
+}
+.list-of-donors {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-258 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-1234 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 172px;
+  height: 40px;
+  position: relative;
+}
+.jennifer-winfred {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.ngn-60000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-279 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.adeniyi-ololade {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-280 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.hassan-yusuf {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-281 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.anita-kanu {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.ngn-50000 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-282 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.princess-sarah {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-283 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.annie-houston {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-284 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.charlie-cook {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-285 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-286 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-287 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-288 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-289 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-290 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-291 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-292 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 48px;
+  position: relative;
+}
+.frame-409 {
+  background: var(--white-10, #ffffff);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button3 {
+  color: var(--neutral-50, #050505);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.vuesax-linear-arrow-down {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-arrow-down2 {
+  position: absolute;
+  inset: 0;
+}
+.arrow-down {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.component-4 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-307 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 272px;
+  position: relative;
+  overflow: hidden;
+}
+.comments {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-298 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-297 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-296 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.phil-jackson {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+. {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: 500 7px/9.33px "DM Sans", sans-serif;
+  position: relative;
+  width: 7px;
+}
+._1-hr {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.love-the-energy-letts-keeping-thr-donations-coming {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-299 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1-d {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.prayers-up-for-zack-and-thee-family {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-300 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.you-re-in-my-prayers {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-301 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.samuel-nana {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+._2-d {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.all-love-from-here-be-strong-zack {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-302 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.i-love-this-platform-and-how-easy-it-is-to-support-those-in-need {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-303 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.janet-lawrence {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+._3-d {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.i-wish-you-speedy-recovery {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-304 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._1-wk {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.hang-in-there-zack {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-305 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._2-wk {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.your-strength-is-an-inspiration-to-us-all {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.frame-306 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.godwin-progress {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.its-all-love-lets-make-it-happen-guys {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 527px;
+}
+.arrow-down2 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.frame-319 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 692px;
+  position: relative;
+}
+.comment {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  height: 232px;
+  position: relative;
+}
+.leave-comment {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-266 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-262 {
+  background: var(--white-10, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 2px;
+  flex-shrink: 0;
+  width: 609px;
+  height: 136px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-264 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 136px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.comment2 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.vector-1 {
+  position: absolute;
+  left: 592px;
+  top: 117px;
+  overflow: visible;
+}
+.primary-color5 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 48px;
+  position: relative;
+}
+.frame-318 {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.line-5 {
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 692px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-310 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.created-on-the-3rd-of-july-2023 {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  width: 247px;
+}
+.frame-309 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-308 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.vuesax-linear-tag {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.vuesax-linear-tag2 {
+  position: absolute;
+  inset: 0;
+}
+.tag {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.community {
+  color: var(--white-50, #555555);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  text-decoration: underline;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.line-6 {
+  border-style: solid;
+  border-color: var(--white-50, #555555);
+  border-width: 1px 0 0 0;
+  flex-shrink: 0;
+  width: 692px;
+  height: 0px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.frame-128 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  left: 0px;
+  top: 2544px;
+  overflow: hidden;
+}
+.frame-545 {
+  display: flex;
+  flex-direction: row;
+  gap: 128px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1200px;
+  height: 250px;
+  position: absolute;
+  left: 120px;
+  top: 32px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 75px;
+  height: 56px;
+  position: relative;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 33.5px;
+  height: 30px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-bold, 700 14px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-541 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.quick-links {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-507 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.campaign-categories {
+  flex-shrink: 0;
+  width: 167px;
+  height: 24px;
+  position: relative;
+}
+.campaign-categories2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.donations {
+  flex-shrink: 0;
+  width: 79px;
+  height: 24px;
+  position: relative;
+}
+.donations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fundraisers {
+  flex-shrink: 0;
+  width: 92px;
+  height: 24px;
+  position: relative;
+}
+.fundraisers2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charity-organisations {
+  flex-shrink: 0;
+  width: 169px;
+  height: 24px;
+  position: relative;
+}
+.charity-organisations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-542 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.resources {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-508 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.blog-updates {
+  flex-shrink: 0;
+  width: 102px;
+  height: 24px;
+  position: relative;
+}
+.blog-updates2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-tips {
+  flex-shrink: 0;
+  width: 65px;
+  height: 24px;
+  position: relative;
+}
+.pricing {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.transparency-report {
+  flex-shrink: 0;
+  width: 160px;
+  height: 24px;
+  position: relative;
+}
+.transparency-report2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-543 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.help {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-509 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-134 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 24px;
+  position: relative;
+}
+.payment-queries {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fa-qs {
+  flex-shrink: 0;
+  width: 40px;
+  height: 24px;
+  position: relative;
+}
+.fa-qs2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-544 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.contact-us {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-329 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-449 {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 120px;
+  top: 32px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-12 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+header nav {
+  border: 3px solid red;
+  display: inline-block;
+}
+nav a {
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}
+nav  {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}

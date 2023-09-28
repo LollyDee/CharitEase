@@ -1,0 +1,83 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --rectangle-2: #ef3e23;
+  --rectangle-3: #f3d000;
+  --secondarycolor-10: #300c07;
+  --secondarycolor-20: #50150c;
+  --secondarycolor-30: #781f12;
+  --secondarycolor-40: #9f2917;
+  --secondarycolor-50: #c7341d;
+  --secondarycolor-60-main: #ef3e23;
+  --secondarycolor-70: #f25e48;
+  --secondarycolor-80: #f47e6c;
+  --secondarycolor-90: #f79e91;
+  --secondarycolor-100: #fabfb6;
+  --secondarycolor-110: #fcd8d3;
+  --primarycolor-110: #000d17;
+  --primarycolor-100: #011527;
+  --primarycolor-90: #01203a;
+  --primarycolor-80: #012b4d;
+  --primarycolor-70: #023561;
+  --primarycolor-60-main: #024074;
+  --primarycolor-50: #2c608b;
+  --primarycolor-40: #5680a2;
+  --primarycolor-30: #809fb9;
+  --primarycolor-20: #abbfd1;
+  --primarycolor-10: #ccd9e3;
+  --neutral-10: #010101;
+  --neutral-20: #020202;
+  --neutral-30: #030303;
+  --neutral-40: #040404;
+  --neutral-50: #050505;
+  --neutral-60: #060606;
+  --neutral-70: #2f2f2f;
+  --neutral-80: #595959;
+  --neutral-90: #828282;
+  --neutral-100: #acacac;
+  --neutral-110: #cdcdcd;
+  --white-60: #333333;
+  --white-50: #555555;
+  --white-40: #808080;
+  --white-30: #aaaaaa;
+  --white-20: #d5d5d5;
+  --white-20-stroke: #d5d5d5;
+  --white-10: #ffffff;
+  --white-10-stroke: #ffffff;
+
+  /* Fonts */
+  --caption-bold: 700 12px/16px "DM Sans", sans-serif;
+  --caption-medium: 500 12px/16px "DM Sans", sans-serif;
+  --body-regular: 400 12px/16px "DM Sans", sans-serif;
+  --body-regular: 400 24px "DM Sans", sans-serif;
+  --body-small-bold: 700 14px/24px "DM Sans", sans-serif;
+  --body-small-medium: 500 14px/24px "DM Sans", sans-serif;
+  --body-small-regular: 400 14px/24px "DM Sans", sans-serif;
+  --body-normal-bold: 700 16px/24px "DM Sans", sans-serif;
+  --body-normal-medium: 500 16px/24px "DM Sans", sans-serif;
+  --body-normal-regular: 400 16px/24px "DM Sans", sans-serif;
+  --body-large-bold: 700 18px/28px "DM Sans", sans-serif;
+  --body-large-medium: 500 18px/28px "DM Sans", sans-serif;
+  --body-large-regular: 400 18px/28px "DM Sans", sans-serif;
+  --header-h-6-bold: 700 20px/28px "HelveticaNeue", sans-serif;
+  --header-h-6-semi-bold: 500 20px/28px "HelveticaNeue", sans-serif;
+  --header-h-6-regular: 300 20px/28px "HelveticaNeue", sans-serif;
+  --header-h-5-bold: 700 24px/32px "HelveticaNeue", sans-serif;
+  --header-h-5-semi-bold: 500 24px/32px "HelveticaNeue", sans-serif;
+  --header-h-5-regular: 300 24px/32px "HelveticaNeue", sans-serif;
+  --header-h-4-bold: 700 32px/40px "HelveticaNeue", sans-serif;
+  --header-h-4-semi-bold: 500 32px/40px "HelveticaNeue", sans-serif;
+  --header-h-4-regular: 300 32px/40px "HelveticaNeue", sans-serif;
+  --header-h-3-bold: 700 40px/48px "HelveticaNeue", sans-serif;
+  --header-h-3-semi-bold: 500 40px/48px "HelveticaNeue", sans-serif;
+  --header-h-3-regular: 300 40px/48px "HelveticaNeue", sans-serif;
+  --header-h-2-bold: 700 48px/60px "HelveticaNeue", sans-serif;
+  --header-h-2-semi-bold: 500 48px/60px "HelveticaNeue", sans-serif;
+  --header-h-2-regular: 300 48px/60px "HelveticaNeue", sans-serif;
+  --header-h-1-bold: 700 56px/68px "HelveticaNeue", sans-serif;
+  --header-h-1-semi-bold: 500 56px/68px "HelveticaNeue", sans-serif;
+  --header-h-1-regular: 300 56px/68px "HelveticaNeue", sans-serif;
+
+  /* Effects */
+  --borderstyle-box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+}

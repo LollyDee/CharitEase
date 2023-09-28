@@ -1,0 +1,568 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #ffffff;
+  width: 1440px;
+  height: 2697px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-401 {
+  display: flex;
+  flex-direction: row;
+  gap: 74px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1199px;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: 898px;
+}
+.frame-397 {
+  background: var(--white-10, #ffffff);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--white-20-stroke, #d5d5d5);
+  border-width: 1px;
+  padding: 24px 36px 64px 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.mission {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 56px/68px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.our-mission-at-charit-ease-is-to-provide-a-seamless-and-trustworthy-crowdfunding-platform-that-empowers-individuals-to-make-a-direct-impact-on-the-lives-of-others-we-envision-a-world-where-every-act-of-giving-no-matter-how-small-contributes-to-a-collective-force-for-positive-change-by-fostering-connections-promoting-transparency-and-embracing-innovation-we-aim-to-redefine-the-way-people-experience-and-engage-with-philanthropy {
+  color: var(--neutral-90, #828282);
+  text-align: left;
+  font: var(--body-large-regular, 400 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 524px;
+}
+.frame-400 {
+  background: var(--white-10, #ffffff);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--white-20-stroke, #d5d5d5);
+  border-width: 1px;
+  padding: 24px 36px 64px 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 529px;
+  position: relative;
+}
+.our-mission-at-charit-ease-is-to-provide-a-seamless-and-trustworthy-crowdfunding-platform-that-empowers-individuals-to-make-a-direct-impact-on-the-lives-of-others-we-envision-a-world-where-every-act-of-giving-no-matter-how-small-contributes-to-a-collective-force-for-positive-change-by-fostering-connections-promoting-transparency-and-embracing-innovation-we-aim-to-redefine-the-way-people-experience-and-engage-with-philanthropy2 {
+  color: var(--neutral-90, #828282);
+  text-align: left;
+  font: var(--body-large-regular, 400 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+}
+.get-in-touch {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 56px/68px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 1627px;
+}
+.frame-406 {
+  background: var(--secondarycolor-80, #f47e6c);
+  border-radius: 24px;
+  border-style: solid;
+  border-color: var(--primarycolor-60-main, #024074);
+  border-width: 2px;
+  width: 1194px;
+  height: 634px;
+  position: absolute;
+  left: calc(50% - 597px);
+  top: 1500px;
+  overflow: hidden;
+}
+.young-african-american-woman-using-laptop {
+  border-radius: 62px;
+  border-style: solid;
+  border-color: var(--primarycolor-10, #ccd9e3);
+  border-width: 2px;
+  width: 530px;
+  height: 485px;
+  position: absolute;
+  left: 597px;
+  top: 75px;
+}
+.frame-556 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 77px;
+  top: 75px;
+}
+.get-in-touch2 {
+  color: var(--secondarycolor-30, #781f12);
+  text-align: left;
+  font: 700 56px/68px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.input-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 400px;
+  height: 93px;
+  position: relative;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 92px;
+  position: relative;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-25 {
+  background: var(--white-10-stroke, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: var(--white-10, #ffffff);
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.input-field2 {
+  color: var(--white-60, #333333);
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-30 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-468 {
+  background: #ffffff;
+  border-radius: 16px;
+  padding: 24px 48px 24px 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.button {
+  color: var(--secondarycolor-30, #781f12);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-398 {
+  display: flex;
+  flex-direction: row;
+  gap: 64px;
+  align-items: center;
+  justify-content: center;
+  width: 1199px;
+  position: absolute;
+  left: 161px;
+  top: 242px;
+}
+.the-man-sitting-begging-on-an-overpass {
+  border-radius: 24px;
+  flex: 1;
+  height: 573.61px;
+  position: relative;
+}
+.frame-128 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2382px;
+  overflow: hidden;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 122px;
+  top: 18px;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 33.5px;
+  height: 30px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-bold, 700 14px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-118 {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 29px;
+}
+.quick-links {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.resources {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.help {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.contact-us {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-329 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1178px;
+  top: 85px;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-509 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 929px;
+  top: 81px;
+}
+.frame-134 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 24px;
+  position: relative;
+}
+.menu-item,
+.menu-item * {
+  box-sizing: border-box;
+}
+.menu-item {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.menu {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/28px "DM Sans", sans-serif;
+  position: relative;
+}
+
+.payment-queries {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fa-qs {
+  flex-shrink: 0;
+  width: 40px;
+  height: 24px;
+  position: relative;
+}
+.fa-qs2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-508 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 628px;
+  top: 81px;
+}
+.blog-updates {
+  flex-shrink: 0;
+  width: 102px;
+  height: 24px;
+  position: relative;
+}
+.blog-updates2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-tips {
+  flex-shrink: 0;
+  width: 65px;
+  height: 24px;
+  position: relative;
+}
+.pricing {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.transparency-report {
+  flex-shrink: 0;
+  width: 160px;
+  height: 24px;
+  position: relative;
+}
+.transparency-report2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-507 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 81px;
+}
+.campaign-categories {
+  flex-shrink: 0;
+  width: 167px;
+  height: 24px;
+  position: relative;
+}
+.campaign-categories2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.donations {
+  flex-shrink: 0;
+  width: 79px;
+  height: 24px;
+  position: relative;
+}
+.donations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fundraisers {
+  flex-shrink: 0;
+  width: 92px;
+  height: 24px;
+  position: relative;
+}
+.fundraisers2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charity-organisations {
+  flex-shrink: 0;
+  width: 169px;
+  height: 24px;
+  position: relative;
+}
+.charity-organisations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.nav-bar-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-12 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+header nav {
+  border: 3px solid red;
+  display: inline-block;
+}
+nav a {
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}
+nav  {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}

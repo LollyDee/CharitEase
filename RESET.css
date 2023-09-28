@@ -1,0 +1,212 @@
+.reset-link,
+.reset-link * {
+  box-sizing: border-box;
+}
+.reset-link {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.text {
+  color: #000000;
+  text-align: left;
+  font: 400 12px "Inter", sans-serif;
+  position: absolute;
+  left: 552px;
+  top: 336px;
+}
+.please-enter-your-otp-or-use-the-password-reset-link-in-your-email {
+  color: #000000;
+  text-align: left;
+  font: var(--header-h-3-bold, 700 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 353px;
+  top: 224px;
+  width: 668px;
+}
+.frame-602 {
+  padding: 19px 28px 19px 28px;
+  display: flex;
+  flex-direction: row;
+  gap: 37px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 828px;
+  position: absolute;
+  left: 255px;
+  top: 480px;
+}
+._1st-digit {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.frame-590 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-5902 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-5903 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-5904 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-5905 {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-21 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 48px;
+  position: absolute;
+  left: calc(50% - 126px);
+  top: 608px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.group-35 {
+  position: absolute;
+  inset: 0;
+}
+.group-36 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.group-47 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.group-63 {
+  width: 1440px;
+  height: 64px;
+  position: static;
+}
+.rectangle-10 {
+  background: var(--primarycolor-60-main, #024074);
+  width: 1440px;
+  height: 64px;
+  position: absolute;
+  left: 0px;
+  top: 960px;
+}
+.copyright-all-rights-reserved-to-charit-ease {
+  color: var(--white-20-stroke, #d5d5d5);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: 573.43px;
+  top: 984px;
+  width: 274.48px;
+}
+.frame-529 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 134.23px;
+  position: absolute;
+  left: 120.41px;
+  top: 970px;
+}
+.logo {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.charit-ease {
+  color: var(--white-10-stroke, #ffffff);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.logo2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 120px;
+  top: 44px;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}

@@ -1,0 +1,247 @@
+.about-your-fundraiser-page,
+.about-your-fundraiser-page * {
+  box-sizing: border-box;
+}
+.about-your-fundraiser-page {
+  background: #ffffff;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 120px;
+  top: 32px;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.hand-with-coins-economy-jar-desk-1 {
+  border-radius: 0px 80px 0px 80px;
+  width: 387px;
+  height: 581px;
+  position: absolute;
+  left: 120px;
+  top: 131px;
+}
+.enter-your-initial-target {
+  color: var(--primarycolor-70, #023561);
+  text-align: left;
+  font: var(--header-h-3-bold, 700 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 608px;
+  top: 167px;
+}
+.frame-110 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 79px;
+  height: 48px;
+  position: absolute;
+  left: 608px;
+  top: 664px;
+}
+.vuesax-linear-arrow-left {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+}
+.vuesax-linear-arrow-left2 {
+  position: absolute;
+  inset: 0;
+}
+.arrow-left {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.input-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 630px;
+  position: absolute;
+  left: 608px;
+  top: 273px;
+}
+.frame-31 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 92px;
+  position: relative;
+}
+.frame-28 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.input-field2 {
+  color: var(--white-60, #333333);
+  text-align: left;
+  font: var(--body-small-regular, 400 14px/24px "DM Sans", sans-serif);
+  position: relative;
+  align-self: stretch;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-25 {
+  background: var(--white-10-stroke, #ffffff);
+  border-radius: 8px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.input-field3 {
+  color: var(--neutral-80, #595959);
+  text-align: left;
+  font: 400 14px/24px "DM Sans", sans-serif;
+  text-transform: lowercase;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.vuesax-linear-eye {
+  flex-shrink: 0;
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.frame-30 {
+  padding: 0px 4px 0px 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.n-b-transaction-fee-charges-applies {
+  color: var(--white-60, #333333);
+  text-align: left;
+  font: var(--body-regular, 400 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: 608px;
+  top: 365px;
+}
+.group-35 {
+  position: absolute;
+  inset: 0;
+}
+.group-36 {
+  width: 1459px;
+  height: 64px;
+  position: static;
+}
+.group-47 {
+  width: 1459px;
+  height: 64px;
+  position: static;
+}
+.group-63 {
+  width: 1459px;
+  height: 64px;
+  position: static;
+}
+.rectangle-10 {
+  background: var(--primarycolor-60-main, #024074);
+  width: 1459px;
+  height: 64px;
+  position: absolute;
+  left: -9px;
+  top: 960px;
+}
+.copyright-all-rights-reserved-to-charit-ease {
+  color: var(--white-20-stroke, #d5d5d5);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: calc(50% - 139px);
+  top: 984px;
+  width: 278.11px;
+}
+.charit-ease2 {
+  color: var(--white-10-stroke, #ffffff);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 171px;
+  top: 980px;
+}
+.logo2 {
+  position: absolute;
+  left: 120px;
+  top: 970px;
+  overflow: visible;
+}
+.frame-23 {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--secondarycolor-60-main, #ef3e23);
+  border-width: 1px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 150px;
+  height: 48px;
+  position: absolute;
+  left: 1068px;
+  top: 656px;
+}
+.button {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}

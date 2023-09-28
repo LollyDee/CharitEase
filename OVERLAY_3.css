@@ -1,0 +1,64 @@
+.overlay-2,
+.overlay-2 * {
+  box-sizing: border-box;
+}
+.overlay-2 {
+  background: var(--primarycolor-20, #abbfd1);
+  width: 836px;
+  height: 571px;
+  position: relative;
+  overflow: hidden;
+}
+.congratulations {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: center;
+  font: 700 40px/60px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: 264px;
+  top: 286px;
+}
+.your-fundraising-campaign-is-live {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: center;
+  font: 500 32px/48px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: 144px;
+  top: 346px;
+}
+.vuesax-linear-shield-cross {
+  width: 103px;
+  height: 103px;
+  position: absolute;
+  left: 883px;
+  top: 26px;
+}
+.vuesax-linear-shield-cross2 {
+  position: absolute;
+  inset: 0;
+}
+.shield-cross {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.icon-park-outline-success {
+  width: 115px;
+  height: 113px;
+  position: absolute;
+  left: calc(50% - 58px);
+  top: 129px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 11.93px;
+  top: 9.42px;
+  overflow: visible;
+}
+.ph-x-fill {
+  position: absolute;
+  left: 722px;
+  top: 26px;
+  overflow: visible;
+}

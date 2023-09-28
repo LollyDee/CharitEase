@@ -1,0 +1,1386 @@
+.browse-fundraisers,
+.browse-fundraisers * {
+  box-sizing: border-box;
+}
+.browse-fundraisers {
+  background: var(--white-10, #ffffff);
+  width: 1440px;
+  height: 2704px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-99 {
+  background: var(--white-20, #d5d5d5);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 295px;
+  height: 50px;
+  position: absolute;
+  left: 1025px;
+  top: 318px;
+}
+.button {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.browse-fundraising-campaigns {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-3-bold, 700 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 177px;
+}
+.browse-fundraisers-by-category {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-3-bold, 700 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: calc(50% - 291px);
+  top: 1097px;
+}
+.top-category {
+  color: #024074;
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 123px;
+  top: 1857px;
+}
+.trending-fundraisers {
+  color: #024074;
+  text-align: left;
+  font: var(--header-h-4-semi-bold, 500 32px/40px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 121px;
+  top: 411px;
+}
+.vuesax-linear-search-normal {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1035px;
+  top: 331px;
+}
+.vuesax-linear-search-normal2 {
+  position: absolute;
+  inset: 0;
+}
+.search-normal {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.image-35 {
+  border-radius: 10px;
+  width: 360px;
+  height: 220px;
+  position: absolute;
+  left: 543px;
+  top: 480px;
+}
+.group-360 {
+  position: absolute;
+  inset: 0;
+}
+.image-8 {
+  border-radius: 10px;
+  width: 180px;
+  height: 117.16px;
+  position: absolute;
+  left: 1135px;
+  top: 582.38px;
+}
+.image-9 {
+  border-radius: 10px;
+  width: 180px;
+  height: 102.38px;
+  position: absolute;
+  left: 955px;
+  top: 480px;
+}
+.image-10 {
+  border-radius: 10px;
+  width: 180px;
+  height: 117.62px;
+  position: absolute;
+  left: 955px;
+  top: 582.38px;
+}
+.image-11 {
+  border-radius: 10px;
+  width: 180px;
+  height: 102.38px;
+  position: absolute;
+  left: 1135px;
+  top: 480px;
+}
+.frame-367 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 155px;
+  top: 1200px;
+}
+.frame-337 {
+  display: flex;
+  flex-direction: row;
+  gap: 125px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-203 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-28 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.medical {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-204 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-14 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.memorial {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-205 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-15 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.emergency {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-206 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-16 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.charity {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-207 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-17 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.education {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-336 {
+  display: flex;
+  flex-direction: row;
+  gap: 125px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-208 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-18 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.business {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-209 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-19 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.community {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-210 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-21 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.sports {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-211 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-212 {
+  border-radius: 122px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.travels {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-212 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-22 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.volunteer {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-335 {
+  display: flex;
+  flex-direction: row;
+  gap: 125px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-213 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-26 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.environment {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-214 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-25 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.tech-skills {
+  color: #024074;
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-215 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.rectangle-49 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.animals {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-216 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-24 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.creativity {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-217 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.image-23 {
+  border-radius: 100px;
+  flex-shrink: 0;
+  width: 122px;
+  height: 122px;
+  position: relative;
+}
+.shelter {
+  color: #024074;
+  text-align: center;
+  font: var(--header-h-5-semi-bold, 500 24px/32px "HelveticaNeue", sans-serif);
+  position: relative;
+  width: 88px;
+}
+.image-32 {
+  border-radius: 10px;
+  width: 360px;
+  height: 220px;
+  position: absolute;
+  left: 123px;
+  top: 480px;
+}
+.frame-338 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 121px;
+  top: 735px;
+}
+.rectangle-51 {
+  background: var(--primarycolor-60-main, #024074);
+  flex-shrink: 0;
+  width: 273px;
+  height: 11px;
+  position: relative;
+}
+.rectangle-52 {
+  background: var(--secondarycolor-60-main, #ef3e23);
+  flex-shrink: 0;
+  width: 86px;
+  height: 11px;
+  position: relative;
+}
+.frame-340 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 360px;
+  position: absolute;
+  left: 543px;
+  top: 734px;
+}
+.rectangle-512 {
+  background: var(--primarycolor-60-main, #024074);
+  flex-shrink: 0;
+  width: 201px;
+  height: 11px;
+  position: relative;
+}
+.rectangle-522 {
+  background: var(--secondarycolor-60-main, #ef3e23);
+  flex-shrink: 0;
+  width: 159px;
+  height: 11px;
+  position: relative;
+}
+.frame-342 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 360px;
+  position: absolute;
+  left: 955px;
+  top: 735px;
+}
+.rectangle-513 {
+  background: var(--primarycolor-60-main, #024074);
+  flex-shrink: 0;
+  width: 312px;
+  height: 11px;
+  position: relative;
+}
+.rectangle-523 {
+  background: var(--secondarycolor-60-main, #ef3e23);
+  flex-shrink: 0;
+  width: 48px;
+  height: 11px;
+  position: relative;
+}
+.frame-339 {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 379px;
+  top: 707px;
+}
+.vector4 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._70 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: 3px;
+  top: 3px;
+}
+.frame-341 {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 729px;
+  top: 706px;
+}
+.vector5 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._55 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: 3px;
+  top: 3px;
+}
+.frame-343 {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 1252px;
+  top: 706px;
+}
+.vector6 {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+._90 {
+  color: #ffffff;
+  text-align: center;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: absolute;
+  left: 2px;
+  top: 3px;
+}
+.group-383 {
+  position: absolute;
+  inset: 0;
+}
+.frame-345 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  width: 163px;
+  height: 24px;
+  position: absolute;
+  left: 539px;
+  top: 761px;
+}
+.frame-3452 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 24px;
+  position: absolute;
+  left: 960px;
+  top: 762px;
+}
+.group-385 {
+  position: absolute;
+  inset: 0;
+}
+.frame-3453 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 119px;
+  top: 763px;
+}
+.raised {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.ngn-560-000 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: 500 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.goals {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 324px;
+  top: 763px;
+}
+.ngn-800-000 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 376px;
+  top: 763px;
+}
+.group-386 {
+  position: absolute;
+  inset: 0;
+}
+.raised2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 539px;
+  top: 761px;
+}
+.ngn-220-000 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 597px;
+  top: 761px;
+}
+.goals2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 744px;
+  top: 761px;
+}
+.ngn-400-000 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 796px;
+  top: 761px;
+}
+.raised3 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 960px;
+  top: 762px;
+}
+.ngn-810-000 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-medium, 500 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 1018px;
+  top: 762px;
+}
+.goals3 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 1165px;
+  top: 762px;
+}
+.ngn-900-000 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 1217px;
+  top: 762px;
+}
+.let-s-come-together-to-save-maria-from-breast-cancer {
+  color: var(--primarycolor-80, #012b4d);
+  text-align: left;
+  font: var(--header-h-6-bold, 700 20px/28px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 108px;
+  top: 803px;
+  width: 379px;
+}
+.raise-fund-for-clean-and-healthy-water-in-biliri-lga-of-gombe-state {
+  color: var(--primarycolor-80, #012b4d);
+  text-align: left;
+  font: var(--header-h-6-bold, 700 20px/28px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 535px;
+  top: 797px;
+}
+.let-s-join-hands-to-eradicate-hunger {
+  color: var(--primarycolor-80, #012b4d);
+  text-align: left;
+  font: var(--header-h-6-bold, 700 20px/28px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 958px;
+  top: 802px;
+}
+.frame-422 {
+  background: #ffffff;
+  padding: 1px 20px 1px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  width: 372px;
+  height: 184px;
+  position: absolute;
+  left: 541px;
+  top: 870px;
+  box-shadow: var(
+    --borderstyle-box-shadow,
+    0px 1px 5px 1px rgba(85, 85, 85, 0.25)
+  );
+}
+.clean-water-is-a-basic-human-right-let-s-come-together-make-a-splash-and-ensure-every-drop-counts-in-our-mission-to-provide-safe-and-sustainable-water-for-the-people-of-gombe {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 339px;
+}
+.frame-424 {
+  background: #ffffff;
+  padding: 1px;
+  display: flex;
+  flex-direction: row;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  width: 372px;
+  height: 181px;
+  position: absolute;
+  left: 101px;
+  top: 873px;
+  box-shadow: var(
+    --borderstyle-box-shadow,
+    0px 1px 5px 1px rgba(85, 85, 85, 0.25)
+  );
+}
+.join-us-in-the-fight-against-cancer-because-together-we-can-put-a-halt-to-this-deadly-disease-that-has-claimed-millions-of-lives {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 341px;
+}
+.frame-423 {
+  background: #ffffff;
+  padding: 1px 20px 1px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 1px;
+  align-items: center;
+  justify-content: center;
+  width: 372px;
+  height: 184px;
+  position: absolute;
+  left: 955px;
+  top: 870px;
+  box-shadow: var(
+    --borderstyle-box-shadow,
+    0px 1px 5px 1px rgba(85, 85, 85, 0.25)
+  );
+}
+.join-us-in-the-fight-against-hunger-because-together-we-can-turn-empty-stomachs-into-a-full-plates-and-bring-hope-to-the-hungry {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 329px;
+}
+.frame-418 {
+  width: 33px;
+  height: 24px;
+  position: absolute;
+  left: 719px;
+  top: 2124px;
+  overflow: hidden;
+}
+.frame-522 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1052px;
+  top: 1910px;
+}
+.image-31 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 267px;
+  height: 184px;
+  position: relative;
+}
+.frame-118 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 21px 24px 21px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 274px;
+  height: 188px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.with-emergency-fundraising-mobilizing-support-is-quick-with-charit-ease-which-provide-aid-during-unexpected-crisis {
+  color: var(--primarycolor-50, #2c608b);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 259px;
+}
+.frame-523 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 737px;
+  top: 1908px;
+}
+.image-30 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 267px;
+  height: 184px;
+  position: relative;
+}
+.frame-419 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 21px 24px 21px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 274px;
+  height: 188px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.voluntary-support-is-a-powerful-way-to-support-various-causes-and-organizations-that-rely-on-the-generosity-of-individuals-like-you-every-donation-counts {
+  color: var(--primarycolor-50, #2c608b);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 259px;
+}
+.frame-524 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 427px;
+  top: 1910px;
+}
+.image-29 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 267px;
+  height: 184px;
+  position: relative;
+}
+.frame-420 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 21px 24px 21px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 274px;
+  height: 188px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.education-is-an-important-aspect-of-every-human-life-by-fundraising-we-can-support-essential-educational-activities-and-provide-resources-to-students-in-need {
+  color: var(--primarycolor-50, #2c608b);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 259px;
+}
+.frame-525 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 109px;
+  top: 1912px;
+}
+.image-27 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 267px;
+  height: 184px;
+  position: relative;
+}
+.frame-421 {
+  background: #ffffff;
+  border-radius: 24px;
+  padding: 21px 24px 21px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 274px;
+  height: 188px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.with-your-support-we-can-make-a-significant-impact-in-the-medical-field-by-providing-treatments-for-those-in-need-and-improve-health-facilities {
+  color: var(--primarycolor-50, #2c608b);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: relative;
+  width: 259px;
+}
+.frame-128 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 2390px;
+  overflow: hidden;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 122px;
+  top: 18px;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 33.5px;
+  height: 30px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-bold, 700 14px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-1182 {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 29px;
+}
+.quick-links {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.resources {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.help {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.contact-us {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-329 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1178px;
+  top: 85px;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-509 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 929px;
+  top: 81px;
+}
+.frame-134 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 24px;
+  position: relative;
+}
+.payment-queries {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fa-qs {
+  flex-shrink: 0;
+  width: 40px;
+  height: 24px;
+  position: relative;
+}
+.fa-qs2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-508 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 628px;
+  top: 81px;
+}
+.blog-updates {
+  flex-shrink: 0;
+  width: 102px;
+  height: 24px;
+  position: relative;
+}
+.blog-updates2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-tips {
+  flex-shrink: 0;
+  width: 65px;
+  height: 24px;
+  position: relative;
+}
+.pricing {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.transparency-report {
+  flex-shrink: 0;
+  width: 160px;
+  height: 24px;
+  position: relative;
+}
+.transparency-report2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-507 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 81px;
+}
+.campaign-categories {
+  flex-shrink: 0;
+  width: 167px;
+  height: 24px;
+  position: relative;
+}
+.campaign-categories2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.donations {
+  flex-shrink: 0;
+  width: 79px;
+  height: 24px;
+  position: relative;
+}
+.donations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fundraisers {
+  flex-shrink: 0;
+  width: 92px;
+  height: 24px;
+  position: relative;
+}
+.fundraisers2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charity-organisations {
+  flex-shrink: 0;
+  width: 169px;
+  height: 24px;
+  position: relative;
+}
+.charity-organisations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-12 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+header nav {
+  border: 3px solid red;
+  display: inline-block;
+}
+nav a {
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}
+nav  {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}

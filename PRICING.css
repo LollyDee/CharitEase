@@ -1,0 +1,551 @@
+.pricing-page,
+.pricing-page * {
+  box-sizing: border-box;
+}
+.pricing-page {
+  background: #ffffff;
+  width: 1440px;
+  height: 2227px;
+  position: relative;
+  overflow: hidden;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}
+.charit-ease-pricing {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: absolute;
+  left: 118px;
+  top: 191px;
+}
+.simple-pricing-for-all {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--header-h-1-bold, 700 56px/68px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 118px;
+  top: 246px;
+}
+.one-small-transaction-fee-is-automatically-deducted-per-donation-that-s-it-everything-else-goes-directly-to-your-cause-because-that-s-what-matters-most-here-s-how-it-works {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--body-regular, 400 24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 118px;
+  top: 341px;
+}
+.frame-533 {
+  background: var(--primarycolor-10, #ccd9e3);
+  width: 1440px;
+  height: 325px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 495px;
+  overflow: hidden;
+}
+.raising-funds-for-an-individual-yourself {
+  color: var(--neutral-70, #2f2f2f);
+  text-align: left;
+  font: var(--header-h-3-semi-bold, 500 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.frame-537 {
+  display: flex;
+  flex-direction: row;
+  gap: 191px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: calc(50% - 602px);
+  top: 131px;
+}
+.frame-534 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.free-fee-to-start-a-fundraising-campaign {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-large-regular, 400 18px/28px "DM Sans", sans-serif);
+  position: relative;
+}
+.ngn-0-00 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-bold, 700 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.frame-535 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.donor-contributions-are-optional {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-large-regular, 400 18px/28px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-536 {
+  display: flex;
+  flex-direction: column;
+  gap: 38px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.one-transaction-fee-for-our-payment-partner-and-credit-card-processing-fee {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-large-regular, 400 18px/28px "DM Sans", sans-serif);
+  position: relative;
+}
+._2-0-ngn-1-25 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-4-bold, 700 32px/40px "HelveticaNeue", sans-serif);
+  position: relative;
+}
+.what-s-a-transaction-fee {
+  color: #000000;
+  text-align: left;
+  font: 500 40px/48px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: 116px;
+  top: 881px;
+}
+.donor-contributions-to-charit-ease-are-always-optional {
+  color: #000000;
+  text-align: left;
+  font: 500 40px/48px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: 118px;
+  top: 1170px;
+}
+.frame-539 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 792px;
+  top: 853px;
+}
+.safe-and-secure-fundraising-is-our-top-priority-that-s-why-we-partner-with-industry-leading-payment-processors-like-pay-pal-to-accept-and-deliver-your-donations-the-transaction-fee-is-automatically-deducted-from-each-donation-it-covers-the-costs-of-credit-and-debit-charges-safely-delivering-donations-and-helps-us-offer-more-ways-to-donate-through-credit-debit-pay-pal-apple-pay-or-google-pay-this-is-the-only-fee-deducted-on-charit-ease-to-cover-all-your-fundraising-needs {
+  color: #000000;
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-540 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 802px;
+  top: 1170px;
+}
+.it-s-important-to-us-that-everyone-is-able-to-get-the-help-they-need-which-is-why-we-don-t-charge-a-fee-to-start-a-fundraiser-instead-we-accept-optional-contributions-from-donors-that-are-always-appreciated-but-never-required-donor-contributions-help-make-it-possible-for-us-to-offer-powerful-and-trusted-fundraising-tools-customer-support-and-a-global-team-of-trust-safety-experts {
+  color: #000000;
+  text-align: left;
+  font: var(--body-normal-regular, 400 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-425 {
+  width: 1200px;
+  height: 286px;
+  position: absolute;
+  left: calc(50% - 600px);
+  top: 1488px;
+}
+.rectangle-49 {
+  border-radius: 10px;
+  width: 1200px;
+  height: 286px;
+  position: absolute;
+  left: calc(50% - 600px);
+  top: 0px;
+}
+.primary-color {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 56px;
+  position: absolute;
+  left: 36px;
+  top: 209px;
+}
+.button {
+  color: var(--white-10-stroke, #ffffff);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.start-a-free-fundraiser-join-thousands-of-others-to-raise-money-for-your-cause {
+  text-align: left;
+  position: absolute;
+  left: 36px;
+  top: 68px;
+}
+.start-a-free-fundraiser-join-thousands-of-others-to-raise-money-for-your-cause-span {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  font: 700 40px/40px "HelveticaNeue", sans-serif;
+}
+.start-a-free-fundraiser-join-thousands-of-others-to-raise-money-for-your-cause-span2 {
+  color: var(--white-10-stroke, #ffffff);
+  font: 500 24px/40px "HelveticaNeue", sans-serif;
+}
+.frame-128 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 1913px;
+  overflow: hidden;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 122px;
+  top: 18px;
+}
+.charit-ease-logo-12 {
+  flex-shrink: 0;
+  width: 33.5px;
+  height: 30px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-bold, 700 14px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-118 {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 29px;
+}
+.quick-links {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.resources {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.help {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.contact-us {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-329 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1178px;
+  top: 85px;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-509 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 929px;
+  top: 81px;
+}
+.frame-134 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 24px;
+  position: relative;
+}
+.payment-queries {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fa-qs {
+  flex-shrink: 0;
+  width: 40px;
+  height: 24px;
+  position: relative;
+}
+.fa-qs2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-508 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 628px;
+  top: 81px;
+}
+.blog-updates {
+  flex-shrink: 0;
+  width: 102px;
+  height: 24px;
+  position: relative;
+}
+.blog-updates2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-tips {
+  flex-shrink: 0;
+  width: 65px;
+  height: 24px;
+  position: relative;
+}
+.pricing {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.transparency-report {
+  flex-shrink: 0;
+  width: 160px;
+  height: 24px;
+  position: relative;
+}
+.transparency-report2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-507 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 81px;
+}
+.campaign-categories {
+  flex-shrink: 0;
+  width: 167px;
+  height: 24px;
+  position: relative;
+}
+.campaign-categories2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.donations {
+  flex-shrink: 0;
+  width: 79px;
+  height: 24px;
+  position: relative;
+}
+.donations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fundraisers {
+  flex-shrink: 0;
+  width: 92px;
+  height: 24px;
+  position: relative;
+}
+.fundraisers2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charity-organisations {
+  flex-shrink: 0;
+  width: 169px;
+  height: 24px;
+  position: relative;
+}
+.charity-organisations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+header nav {
+  border: 3px solid red;
+  display: inline-block;
+}
+nav a {
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}
+nav  {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}

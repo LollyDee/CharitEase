@@ -1,0 +1,662 @@
+.reviews,
+.reviews * {
+  box-sizing: border-box;
+}
+.reviews {
+  background: #ffffff;
+  width: 1440px;
+  height: 3018px;
+  position: relative;
+  overflow: hidden;
+}
+.team-volunteers-stacking-hands-1 {
+  width: 1440px;
+  height: 542px;
+  position: absolute;
+  left: calc(50% - 720px);
+  top: 156px;
+}
+.your-generosity-their-hope-let-s-build-a-better-tomorrow-together {
+  text-align: left;
+  position: absolute;
+  left: 124px;
+  top: 273px;
+}
+.your-generosity-their-hope-let-s-build-a-better-tomorrow-together-span {
+  color: var(--white-10-stroke, #ffffff);
+  font: 700 56px/68px "HelveticaNeue", sans-serif;
+}
+.your-generosity-their-hope-let-s-build-a-better-tomorrow-together-span2 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  font: var(--header-h-1-bold, 700 56px/68px "HelveticaNeue", sans-serif);
+}
+.your-generosity-their-hope-let-s-build-a-better-tomorrow-together-span3 {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  font: 500 36px/68px "HelveticaNeue", sans-serif;
+}
+.frame-121 {
+  display: flex;
+  flex-direction: row;
+  gap: 82px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 598px);
+  top: 832px;
+}
+.frame-118 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 344px;
+  height: 255px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.a-refreshing-take-on-crowdfunding-transparentuser-freindly-and-insightful-charit-ease-has-truly-set-the-golden-standard {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 9px;
+  top: 24px;
+}
+.group-72 {
+  position: absolute;
+  inset: 0;
+}
+.group-71 {
+  width: 148px;
+  height: 47px;
+  position: static;
+}
+.frame-125 {
+  display: flex;
+  flex-direction: row;
+  gap: 21px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 12px;
+  top: 187px;
+}
+.ellipse-34 {
+  border-radius: 50%;
+  flex-shrink: 0;
+  width: 47px;
+  height: 47px;
+  position: relative;
+}
+.frame-122 {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.finlay-kirk {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.donor {
+  color: var(--neutral-80, #595959);
+  text-align: left;
+  font: var(--caption-medium, 500 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-119 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 344px;
+  height: 255px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.found-meaningful-cause-that-resonates-with-me-donated-with-ease-it-is-more-than-just-a-platform-it-is-a-community-highly-recommend {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 4px;
+  top: 24px;
+}
+.ellipse-342 {
+  border-radius: 50%;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+  left: 20px;
+  top: 195px;
+}
+.frame-123 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  left: 79px;
+  top: 195px;
+}
+.dannette-p-cervantes {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-120 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 344px;
+  height: 255px;
+  position: relative;
+  box-shadow: 0px 1px 5px 1px rgba(85, 85, 85, 0.25);
+  overflow: hidden;
+}
+.never-has-giving-felt-so-good-and-been-so-simple-charit-ease-bridges-the-gap-between-donors-and-real-impact {
+  color: #000000;
+  text-align: left;
+  font: 400 18px/28px "DM Sans", sans-serif;
+  position: absolute;
+  left: 8px;
+  top: 24px;
+}
+.ellipse-35 {
+  border-radius: 50%;
+  width: 47px;
+  height: 47px;
+  position: absolute;
+  left: 8px;
+  top: 195px;
+}
+.frame-124 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 70px;
+  top: 195px;
+}
+.clara-r-altman {
+  color: var(--secondarycolor-60-main, #ef3e23);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.fundraiser-for-orphanages {
+  color: var(--neutral-80, #595959);
+  text-align: left;
+  font: var(--caption-bold, 700 12px/16px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-1222 {
+  display: flex;
+  flex-direction: row;
+  gap: 82px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 598px);
+  top: 1137px;
+}
+.frame-1232 {
+  display: flex;
+  flex-direction: row;
+  gap: 82px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 598px);
+  top: 1442px;
+}
+.frame-1242 {
+  display: flex;
+  flex-direction: row;
+  gap: 82px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 598px);
+  top: 1747px;
+}
+.frame-1192 {
+  background: #ffffff;
+  flex-shrink: 0;
+  width: 344px;
+  height: 255px;
+  position: relative;
+  box-shadow: var(
+    --borderstyle-box-shadow,
+    0px 1px 5px 1px rgba(85, 85, 85, 0.25)
+  );
+  overflow: hidden;
+}
+.frame-1252 {
+  display: flex;
+  flex-direction: row;
+  gap: 82px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 598px);
+  top: 2052px;
+}
+.frame-126 {
+  display: flex;
+  flex-direction: row;
+  gap: 82px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: calc(50% - 598px);
+  top: 2357px;
+}
+.reviews-from-donors-top-fundraisers {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--header-h-3-bold, 700 40px/48px "HelveticaNeue", sans-serif);
+  position: absolute;
+  left: 122px;
+  top: 746px;
+}
+.see-more {
+  color: var(--primarycolor-80, #012b4d);
+  text-align: left;
+  font: var(--body-large-medium, 500 18px/28px "DM Sans", sans-serif);
+  position: absolute;
+  left: 121px;
+  top: 2644px;
+}
+.hero-cta {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 120px;
+  top: 486px;
+}
+.secondary-color {
+  border-radius: 16px;
+  border-style: solid;
+  border-color: var(--white-10-stroke, #ffffff);
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 300px;
+  height: 56px;
+  position: relative;
+}
+.button {
+  color: var(--white-10-stroke, #ffffff);
+  text-align: left;
+  font: 700 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-21 {
+  background: var(--primarycolor-60-main, #024074);
+  border-radius: 16px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 150px;
+  height: 56px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.button2 {
+  color: var(--white-10, #ffffff);
+  text-align: left;
+  font: 500 16px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-128 {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 1440px;
+  height: 314px;
+  position: absolute;
+  left: 0px;
+  top: 2707px;
+  overflow: hidden;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 122px;
+  top: 18px;
+}
+.charit-ease-logo-1 {
+  flex-shrink: 0;
+  width: 33.5px;
+  height: 30px;
+  position: relative;
+}
+.charit-ease {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: var(--body-small-bold, 700 14px/24px "DM Sans", sans-serif);
+  position: relative;
+}
+.frame-1182 {
+  display: flex;
+  flex-direction: row;
+  gap: 200px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 29px;
+}
+.quick-links {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.resources {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.help {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.contact-us {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/32px "HelveticaNeue", sans-serif;
+  position: relative;
+}
+.frame-329 {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1178px;
+  top: 85px;
+}
+.teenyicons-twitter-solid {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ic-round-facebook {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.ri-instagram-fill {
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+}
+.frame-509 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 929px;
+  top: 81px;
+}
+.frame-134 {
+  flex-shrink: 0;
+  width: 134px;
+  height: 24px;
+  position: relative;
+}
+.payment-queries {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fa-qs {
+  flex-shrink: 0;
+  width: 40px;
+  height: 24px;
+  position: relative;
+}
+.fa-qs2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-508 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 628px;
+  top: 81px;
+}
+.blog-updates {
+  flex-shrink: 0;
+  width: 102px;
+  height: 24px;
+  position: relative;
+}
+.blog-updates2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.top-tips {
+  flex-shrink: 0;
+  width: 65px;
+  height: 24px;
+  position: relative;
+}
+.pricing {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.transparency-report {
+  flex-shrink: 0;
+  width: 160px;
+  height: 24px;
+  position: relative;
+}
+.transparency-report2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-507 {
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 323px;
+  top: 81px;
+}
+.campaign-categories {
+  flex-shrink: 0;
+  width: 167px;
+  height: 24px;
+  position: relative;
+}
+.campaign-categories2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.donations {
+  flex-shrink: 0;
+  width: 79px;
+  height: 24px;
+  position: relative;
+}
+.donations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.fundraisers {
+  flex-shrink: 0;
+  width: 92px;
+  height: 24px;
+  position: relative;
+}
+.fundraisers2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charity-organisations {
+  flex-shrink: 0;
+  width: 169px;
+  height: 24px;
+  position: relative;
+}
+.charity-organisations2 {
+  color: var(--primarycolor-40, #5680a2);
+  text-align: left;
+  font: var(--body-normal-bold, 700 16px/24px "DM Sans", sans-serif);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.charit-ease-nav-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 118px;
+  top: 38px;
+}
+.nav-bar-container {
+  display: flex;
+  flex-direction: row;
+  gap: 63px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.charit-ease-logo-12 {
+  flex-shrink: 0;
+  width: 54px;
+  height: 48px;
+  position: relative;
+}
+.charit-ease2 {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: left;
+  font: 700 16px/24px "DM Sans", sans-serif;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1062px;
+  position: relative;
+}
+.nav-bar {
+  padding: 4px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 100%;
+  position: relative;
+}
+header nav {
+  border: 3px solid red;
+  display: inline-block;
+}
+nav a {
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}
+nav  {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  color: blue;
+  text-decoration: none;
+  position: relative;
+}

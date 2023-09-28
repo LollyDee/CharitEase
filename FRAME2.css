@@ -1,0 +1,64 @@
+.frame-245,
+.frame-245 * {
+  box-sizing: border-box;
+}
+.frame-245 {
+  background: var(--primarycolor-20, #abbfd1);
+  width: 836px;
+  height: 571px;
+  position: relative;
+  overflow: hidden;
+}
+.icon-park-outline-smiling-face {
+  width: 118px;
+  height: 118px;
+  position: absolute;
+  left: calc(50% - 59px);
+  top: 78px;
+  overflow: hidden;
+}
+.group {
+  position: absolute;
+  left: 9.83px;
+  top: 9.83px;
+  overflow: visible;
+}
+.thank-you {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: center;
+  font: 700 48px/60px "HelveticaNeue", sans-serif;
+  position: absolute;
+  left: calc(50% - 150px);
+  top: 256px;
+}
+.for-your-donation {
+  color: var(--primarycolor-60-main, #024074);
+  text-align: center;
+  font: 400 40px/48px "DM Sans", sans-serif;
+  position: absolute;
+  left: calc(50% - 179px);
+  top: 344px;
+}
+.vuesax-linear-shield-cross {
+  width: 103px;
+  height: 103px;
+  position: absolute;
+  left: 883px;
+  top: 26px;
+}
+.vuesax-linear-shield-cross2 {
+  position: absolute;
+  inset: 0;
+}
+.shield-cross {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.ph-x-fill {
+  position: absolute;
+  left: 699px;
+  top: 26px;
+  overflow: visible;
+}
